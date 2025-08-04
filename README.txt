@@ -1,0 +1,1 @@
+The Expiro project is a reminder application. It was coded using Eclipse and is JAVA-based. Thank you.
